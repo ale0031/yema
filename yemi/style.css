@@ -1,0 +1,28 @@
+body{
+    background-color: #ffc7e8;
+    height: 100%;
+
+}
+.contenedor {
+    position: relative;
+  }
+.conteiner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    display: flex;
+        height: 100%;
+        width: 100%;
+        align-content: stretch;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+        align-items: center;
+  }
+img{
+    width: 400px;
+    
+}
